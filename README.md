@@ -2,6 +2,7 @@
 This dashboard provides an analytical overview of online courses across multiple categories such as Business, Computer Science, Data Science, Health, Personal Development, and more. It highlights key insights about course types, viewer engagement, language distribution, and ratings.
 
 **Key Features:**
+
 **Course Type Distribution:** Shows the count of Courses vs Specializations offered across all categories.
 
 **Viewer Engagement:** Displays the average number of viewers by sub-category (e.g., History, Music & Art, Philosophy) and by number of subtitle languages.
